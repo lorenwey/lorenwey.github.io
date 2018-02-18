@@ -367,25 +367,51 @@
 				<div class="row">
 					<div class="col-lg-8 col-lg-offset-2">
 						<div class="modal-body">
-							<h2>Project Title</h2>
+							<h2>Sistema de gestión de tiendas online</h2>
 							<hr class="star-primary">
-							<img src="img/portfolio/safe.png" class="img-responsive img-centered" alt="">
-							<p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-							<ul class="list-inline item-details">
-								<li>Client:
-									<strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-									</strong>
-								</li>
-								<li>Date:
-									<strong><a href="http://startbootstrap.com">April 2014</a>
-									</strong>
-								</li>
-								<li>Service:
-									<strong><a href="http://startbootstrap.com">Web Development</a>
-									</strong>
-								</li>
-							</ul>
-							<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+							<div class="container col-xs-12 clearfix">
+								<div id="myCarousel5" class="carousel slide" data-ride="carousel">
+									<!-- Indicators -->
+									<ol class="carousel-indicators">
+										<li data-target="#myCarousel5" data-slide-to="0" class="active"></li>
+										<li data-target="#myCarousel5" data-slide-to="1"></li>
+										<li data-target="#myCarousel5" data-slide-to="2"></li>
+										<li data-target="#myCarousel5" data-slide-to="3"></li>
+										<li data-target="#myCarousel5" data-slide-to="4"></li>
+										<li data-target="#myCarousel5" data-slide-to="5"></li>
+										<li data-target="#myCarousel5" data-slide-to="6"></li>
+									</ol>
+
+									<!-- Wrapper for slides -->
+									<div class="carousel-inner">
+										<div class="item active"><img src="img/portfolio/zarlo.png" alt="zarlo"/></div>
+										<div class="item"><img src="img/portfolio/zarlo2.png" alt="zarlo1"/></div>
+										<div class="item"><img src="img/portfolio/zarlo3.png" alt="zarlo2"/></div>
+										<div class="item"><img src="img/portfolio/zarlo4.png" alt="zarlo3"/></div>
+										<div class="item"><img src="img/portfolio/zarlo5.png" alt="zarlo3"/></div>
+										<div class="item"><img src="img/portfolio/zarlo6.png" alt="zarlo3"/></div>
+										<div class="item"><img src="img/portfolio/zarlo7.png" alt="zarlo3"/></div>
+									</div>
+
+									<!-- Left and right controls -->
+									<a class="left carousel-control" href="#myCarousel5" data-slide="prev">
+										<span class="glyphicon glyphicon-chevron-left"></span>
+										<span class="sr-only">Anterior</span>
+									</a>
+									<a class="right carousel-control" href="#myCarousel5" data-slide="next">
+										<span class="glyphicon glyphicon-chevron-right"></span>
+										<span class="sr-only">Siguiente</span>
+									</a>
+								</div>
+							</div>
+
+							<div class="col-xs-12 clearfix">
+								<p><br>Proyecto realizado en mi tiempo libre, sistema de gestión integral para tiendas online.<br>Gestión de Stocks, clientes, pedidos, "carrito abandonado", estadísticas, pasarelas de pago incluidas y tienda personalizable.</p>
+								<ul class="list-inline item-details m-t-3">
+									<li><strong><a href="http://startbootstrap.com">2016 - 2017</a></strong></li>
+								</ul>
+								<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -404,25 +430,47 @@
 				<div class="row">
 					<div class="col-lg-8 col-lg-offset-2">
 						<div class="modal-body">
-							<h2>Project Title</h2>
+							<h2>Tienda online</h2>
 							<hr class="star-primary">
-							<img src="img/portfolio/submarine.png" class="img-responsive img-centered" alt="">
-							<p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-							<ul class="list-inline item-details">
-								<li>Client:
-									<strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-									</strong>
-								</li>
-								<li>Date:
-									<strong><a href="http://startbootstrap.com">April 2014</a>
-									</strong>
-								</li>
-								<li>Service:
-									<strong><a href="http://startbootstrap.com">Web Development</a>
-									</strong>
-								</li>
-							</ul>
-							<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+							<div class="container col-xs-12 clearfix">
+								<div id="myCarousel6" class="carousel slide" data-ride="carousel">
+									<!-- Indicators -->
+									<ol class="carousel-indicators">
+										<li data-target="#myCarousel6" data-slide-to="0" class="active"></li>
+										<li data-target="#myCarousel6" data-slide-to="1"></li>
+										<li data-target="#myCarousel6" data-slide-to="2"></li>
+										<li data-target="#myCarousel6" data-slide-to="3"></li>
+										<li data-target="#myCarousel6" data-slide-to="4"></li>
+									</ol>
+
+									<!-- Wrapper for slides -->
+									<div class="carousel-inner">
+										<div class="item active"><img src="img/portfolio/tienda.png" alt="tienda"/></div>
+										<div class="item"><img src="img/portfolio/tienda2.png" alt="tienda2"/></div>
+										<div class="item"><img src="img/portfolio/tienda3.png" alt="tienda3"/></div>
+										<div class="item"><img src="img/portfolio/tienda4.png" alt="tienda4"/></div>
+										<div class="item"><img src="img/portfolio/tienda5.png" alt="tienda5"/></div>
+									</div>
+
+									<!-- Left and right controls -->
+									<a class="left carousel-control" href="#myCarousel6" data-slide="prev">
+										<span class="glyphicon glyphicon-chevron-left"></span>
+										<span class="sr-only">Anterior</span>
+									</a>
+									<a class="right carousel-control" href="#myCarousel6" data-slide="next">
+										<span class="glyphicon glyphicon-chevron-right"></span>
+										<span class="sr-only">Siguiente</span>
+									</a>
+								</div>
+							</div>
+
+							<div class="col-xs-12 clearfix">
+								<p><br>Proyecto realizado en mi tiempo libre, tienda online personalizable en colores, filtros, menús...<br>Consulta de pedidos, lista de deseos, parasela de pago...</p>
+								<ul class="list-inline item-details m-t-3">
+									<li><strong><a href="http://startbootstrap.com">2016 - 2017</a></strong></li>
+								</ul>
+								<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
+							</div>
 						</div>
 					</div>
 				</div>
