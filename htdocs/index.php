@@ -235,7 +235,7 @@
 							</div>
 
 							<div class="col-xs-12 clearfix">
-								<p><br>Manual de estilo para la uniformidad visual, de usabilidad y buenas prácticas en el código.</p>
+								<p><br>Extranet completa de propietario a partir de la creación del manual de estilo para la uniformidad visual, de usabilidad y buenas prácticas en el código.</p>
 								<ul class="list-inline item-details m-t-3">
 									<li>Fecha <strong><a href="http://startbootstrap.com">Octubre 2017</a></strong></li>
 									<li>Dirigido a <strong><a href="http://startbootstrap.com">Alojamientos rurales</a></strong></li>
@@ -260,25 +260,44 @@
 				<div class="row">
 					<div class="col-lg-8 col-lg-offset-2">
 						<div class="modal-body">
-							<h2>Project Title</h2>
+							<h2>Diseño 100% mobile</h2>
 							<hr class="star-primary">
-							<img src="img/portfolio/circus.png" class="img-responsive img-centered" alt="">
-							<p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-							<ul class="list-inline item-details">
-								<li>Client:
-									<strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-									</strong>
-								</li>
-								<li>Date:
-									<strong><a href="http://startbootstrap.com">April 2014</a>
-									</strong>
-								</li>
-								<li>Service:
-									<strong><a href="http://startbootstrap.com">Web Development</a>
-									</strong>
-								</li>
-							</ul>
-							<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+							<div class="container col-xs-12 clearfix">
+								<div id="myCarousel3" class="carousel slide" data-ride="carousel">
+									<!-- Indicators -->
+									<ol class="carousel-indicators">
+										<li data-target="#myCarousel3" data-slide-to="0" class="active"></li>
+										<li data-target="#myCarousel3" data-slide-to="1"></li>
+										<li data-target="#myCarousel3" data-slide-to="2"></li>
+									</ol>
+
+									<!-- Wrapper for slides -->
+									<div class="carousel-inner">
+										<div class="item active"><img src="img/portfolio/reserva.png" alt="reserva"/></div>
+										<div class="item"><img src="img/portfolio/reserva2.png" alt="reserva2"/></div>
+										<div class="item"><img src="img/portfolio/reserva3.png" alt="reserva3"/></div>
+									</div>
+
+									<!-- Left and right controls -->
+									<a class="left carousel-control" href="#myCarousel3" data-slide="prev">
+										<span class="glyphicon glyphicon-chevron-left"></span>
+										<span class="sr-only">Anterior</span>
+									</a>
+									<a class="right carousel-control" href="#myCarousel3" data-slide="next">
+										<span class="glyphicon glyphicon-chevron-right"></span>
+										<span class="sr-only">Siguiente</span>
+									</a>
+								</div>
+							</div>
+
+							<div class="col-xs-12 clearfix">
+								<p><br>Optimizado para el momento exacto en que se usa. <br>Con plugins útiles como la firma digital o lector de QR para un checkin ágil</p>
+								<ul class="list-inline item-details m-t-3">
+									<li>Fecha <strong><a href="http://startbootstrap.com">Enero 2018</a></strong></li>
+									<li>Dirigido a <strong><a href="http://startbootstrap.com">Alojamientos rurales</a></strong></li>
+								</ul>
+								<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
+							</div>
 						</div>
 					</div>
 				</div>
