@@ -102,34 +102,17 @@
 		<div class="footer-above">
 			<div class="container">
 				<div class="row">
-					<div class="footer-col col-md-4">
-						<h3>Location</h3>
-						<p>3481 Melrose Place
-							<br>Beverly Hills, CA 90210</p>
+					<div class="footer-col col-md-6">
+						<h3>Ciudad actual</h3>
+						<p>Zaragoza</p>
 					</div>
-					<div class="footer-col col-md-4">
-						<h3>Around the Web</h3>
+					<div class="footer-col col-md-6">
+						<h3>En la Web</h3>
 						<ul class="list-inline">
 							<li>
-								<a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
-							</li>
-							<li>
-								<a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
-							</li>
-							<li>
-								<a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
-							</li>
-							<li>
-								<a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
-							</li>
-							<li>
-								<a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a>
+								<a href="https://www.linkedin.com/in/lorena-muns-falcon" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
 							</li>
 						</ul>
-					</div>
-					<div class="footer-col col-md-4">
-						<h3>About Freelancer</h3>
-						<p>Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
 					</div>
 				</div>
 			</div>
@@ -138,7 +121,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
-						Copyright &copy; Your Website 2016
+						Copyright &copy; Lorena Muns 2018
 					</div>
 				</div>
 			</div>
@@ -167,30 +150,44 @@
 						<div class="modal-body">
 							<h2>Motor de reservas</h2>
 							<hr class="star-primary">
-							<!-- <img src="img/portfolio/motor.png" class="img-responsive img-centered" alt=""> -->
-							<p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-							<div class="uno_prueba">
-								<ul class="bxslider">
-									<li><img src="img/portfolio/motor.png" /></li>
-									<li><img src="img/portfolio/circus.png" /></li>
-									<li><img src="img/portfolio/motor.png" /></li>
-								</ul>
+							<div class="container col-xs-12 clearfix">
+								<div id="myCarousel" class="carousel slide" data-ride="carousel">
+									<!-- Indicators -->
+									<ol class="carousel-indicators">
+										<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+										<li data-target="#myCarousel" data-slide-to="1"></li>
+										<li data-target="#myCarousel" data-slide-to="2"></li>
+										<li data-target="#myCarousel" data-slide-to="3"></li>
+									</ol>
+
+									<!-- Wrapper for slides -->
+									<div class="carousel-inner">
+										<div class="item active"><img src="img/portfolio/motor.png" alt="motor"/></div>
+										<div class="item"><img src="img/portfolio/motor2.png" alt="motor2"/></div>
+										<div class="item"><img src="img/portfolio/motor3.png" alt="motor3"/></div>
+										<div class="item"><img src="img/portfolio/motor4.png" alt="motor4"/></div>
+									</div>
+
+									<!-- Left and right controls -->
+									<a class="left carousel-control" href="#myCarousel" data-slide="prev">
+										<span class="glyphicon glyphicon-chevron-left"></span>
+										<span class="sr-only">Anterior</span>
+									</a>
+									<a class="right carousel-control" href="#myCarousel" data-slide="next">
+										<span class="glyphicon glyphicon-chevron-right"></span>
+										<span class="sr-only">Siguiente</span>
+									</a>
+								</div>
 							</div>
-							<ul class="list-inline item-details">
-								<li>Client:
-									<strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-									</strong>
-								</li>
-								<li>Date:
-									<strong><a href="http://startbootstrap.com">April 2014</a>
-									</strong>
-								</li>
-								<li>Service:
-									<strong><a href="http://startbootstrap.com">Web Development</a>
-									</strong>
-								</li>
-							</ul>
-							<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+
+							<div class="col-xs-12 clearfix">
+								<p><br>Motor de reservas personalizable, responsive, fácil de integrar. <br>Pasarela de pago incluida</p>
+								<ul class="list-inline item-details m-t-3">
+									<li>Fecha <strong><a href="http://startbootstrap.com">Mayo 2016</a></strong></li>
+									<li>Dirigido a <strong><a href="http://startbootstrap.com">Alojamientos y portales integrados</a></strong></li>
+								</ul>
+								<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -209,25 +206,42 @@
 				<div class="row">
 					<div class="col-lg-8 col-lg-offset-2">
 						<div class="modal-body">
-							<h2>Project Title</h2>
+							<h2>Extranet de propietarios</h2>
 							<hr class="star-primary">
-							<img src="img/portfolio/cake.png" class="img-responsive img-centered" alt="">
-							<p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-							<ul class="list-inline item-details">
-								<li>Client:
-									<strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-									</strong>
-								</li>
-								<li>Date:
-									<strong><a href="http://startbootstrap.com">April 2014</a>
-									</strong>
-								</li>
-								<li>Service:
-									<strong><a href="http://startbootstrap.com">Web Development</a>
-									</strong>
-								</li>
-							</ul>
-							<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+							<div class="container col-xs-12 clearfix">
+								<div id="myCarousel2" class="carousel slide" data-ride="carousel">
+									<!-- Indicators -->
+									<ol class="carousel-indicators">
+										<li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
+										<li data-target="#myCarousel2" data-slide-to="1"></li>
+									</ol>
+
+									<!-- Wrapper for slides -->
+									<div class="carousel-inner">
+										<div class="item active"><img src="img/portfolio/manual.png" alt="manual"/></div>
+										<div class="item"><img src="img/portfolio/unifomre.png" alt="manual2"/></div>
+									</div>
+
+									<!-- Left and right controls -->
+									<a class="left carousel-control" href="#myCarousel2" data-slide="prev">
+										<span class="glyphicon glyphicon-chevron-left"></span>
+										<span class="sr-only">Anterior</span>
+									</a>
+									<a class="right carousel-control" href="#myCarousel2" data-slide="next">
+										<span class="glyphicon glyphicon-chevron-right"></span>
+										<span class="sr-only">Siguiente</span>
+									</a>
+								</div>
+							</div>
+
+							<div class="col-xs-12 clearfix">
+								<p><br>Manual de estilo para la uniformidad visual, de usabilidad y buenas prácticas en el código.</p>
+								<ul class="list-inline item-details m-t-3">
+									<li>Fecha <strong><a href="http://startbootstrap.com">Octubre 2017</a></strong></li>
+									<li>Dirigido a <strong><a href="http://startbootstrap.com">Alojamientos rurales</a></strong></li>
+								</ul>
+								<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -397,19 +411,7 @@
 
 	<!-- Theme JavaScript -->
 	<script src="js/freelancer.js"></script>
-	<!-- bxSlider Javascript file -->
-	<script src="js/jquery.bxslider.js"></script>
 
-	<script>
-		$(document).ready(function(){
-			 var slider = $('.bxslider').bxSlider({
-			 	auto:true
-			 });
-		});
-		$('#portfolioModal1').on('shown.bs.modal', function (e) {
-  			slider.reloadSlider();
-		})
-	</script>
 
 </body>
 

@@ -14,8 +14,6 @@
 
     <!-- Theme CSS -->
     <link href="css/freelancer.min.css" rel="stylesheet">
-    <!-- bxSlider CSS file -->
-    <link href="css/jquery.bxslider.css" rel="stylesheet" />
 
     <!-- Custom Fonts -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">

@@ -17,9 +17,6 @@
                     <a href="#page-top"></a>
                 </li>
                 <li class="page-scroll">
-                    <a href="#biografia">Biografía</a>
-                </li>
-                <li class="page-scroll">
                     <a href="#portfolio">Portfolio</a>
                 </li>
                 <li class="page-scroll">

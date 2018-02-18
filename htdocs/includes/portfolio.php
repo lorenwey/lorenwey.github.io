@@ -10,23 +10,33 @@
         </div>
         <div class="row">
             <div class="col-sm-4 portfolio-item">
-                <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
                     <div class="caption">
                         <div class="caption-content">
-                            <i class="fa fa-search-plus fa-3x"></i>
+                            <i class="fa fa-search-plus fa-3x"></i><br>Extranet de propietarios
                         </div>
                     </div>
-                    <img src="<?php echo $path_raiz; ?>img/portfolio/motor.png" class="img-responsive" alt="motor de reservas" title="Motor de reservas">
+                    <img  src="<?php echo $path_raiz; ?>img/portfolio/manual.png" class="img-responsive" alt="Extranet de propietarios" title="Extranet de propietarios">
                 </a>
             </div>
             <div class="col-sm-4 portfolio-item">
                 <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
                     <div class="caption">
                         <div class="caption-content">
-                            <i class="fa fa-search-plus fa-3x"></i>
+                            <i class="fa fa-search-plus fa-3x"></i><br>Diseño 100% mobile
                         </div>
                     </div>
-                    <img src="img/portfolio/cake.png" class="img-responsive" alt="">
+                    <img  src="<?php echo $path_raiz; ?>img/portfolio/reserva.png" class="img-responsive" alt="Diseño 100% mobile" title="Diseño 100% mobile">
+                </a>
+            </div>
+            <div class="col-sm-4 portfolio-item">
+                <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                    <div class="caption">
+                        <div class="caption-content">
+                            <i class="fa fa-search-plus fa-3x"></i><br>Motor de reservas
+                        </div>
+                    </div>
+                    <img src="<?php echo $path_raiz; ?>img/portfolio/motor.png" class="img-responsive" alt="motor de reservas" title="Motor de reservas">
                 </a>
             </div>
             <div class="col-sm-4 portfolio-item">
