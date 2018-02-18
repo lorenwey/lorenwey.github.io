@@ -6,6 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
+    <link rel="icon" href="<?php echo $path_raiz; ?>img/4.png" type="image/png" sizes="16x16">
 
     <title>Lorena Muns</title>
 
