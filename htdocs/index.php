@@ -14,7 +14,6 @@
 
 	<?php include_once('includes/menu.php');?>
 	<?php include_once('includes/header.php');?>
-	<?php include_once('includes/biografia.php');?>
 	<?php include_once('includes/portfolio.php');?>
 
 	<!-- About Section -->
@@ -183,7 +182,7 @@
 							<div class="col-xs-12 clearfix">
 								<p><br>Motor de reservas personalizable, responsive, fácil de integrar. <br>Pasarela de pago incluida</p>
 								<ul class="list-inline item-details m-t-3">
-									<li>Fecha <strong><a href="http://startbootstrap.com">Mayo 2016</a></strong></li>
+									<li><strong><a href="http://startbootstrap.com">Mayo 2016</a></strong></li>
 								</ul>
 								<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
 							</div>
@@ -236,7 +235,7 @@
 							<div class="col-xs-12 clearfix">
 								<p><br>Extranet completa de propietario a partir de la creación del manual de estilo para la uniformidad visual, de usabilidad y buenas prácticas en el código.</p>
 								<ul class="list-inline item-details m-t-3">
-									<li>Fecha <strong><a href="http://startbootstrap.com">Octubre 2017</a></strong></li>
+									<li><strong><a href="http://startbootstrap.com">Octubre 2017</a></strong></li>
 								</ul>
 								<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
 							</div>
@@ -291,7 +290,7 @@
 							<div class="col-xs-12 clearfix">
 								<p><br>Optimizado para el momento exacto en que se usa. <br>Con plugins útiles como la firma digital o lector de QR para un checkin ágil</p>
 								<ul class="list-inline item-details m-t-3">
-									<li>Fecha <strong><a href="http://startbootstrap.com">Enero 2018</a></strong></li>
+									<li><strong><a href="http://startbootstrap.com">Enero 2018</a></strong></li>
 								</ul>
 								<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
 							</div>
@@ -346,7 +345,7 @@
 							<div class="col-xs-12 clearfix">
 								<p><br>Integración completa del sistema mediante Soap y WebHooks.<br>Integración de reservas directas por REST.<br>Integraciones REST y Soap con pasarelas de pago y TPVs.</p>
 								<ul class="list-inline item-details m-t-3">
-									<li>Fecha <strong><a href="http://startbootstrap.com">2015 - 2018</a></strong></li>
+									<li><strong><a href="http://startbootstrap.com">2015 - 2018</a></strong></li>
 								</ul>
 								<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
 							</div>
