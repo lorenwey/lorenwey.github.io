@@ -21,28 +21,28 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12 text-center">
-					<h2>About</h2>
+					<h2>Sobre mí</h2>
 					<hr class="star-light">
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-lg-4 col-lg-offset-2">
-					<p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
+					<p>Apasionada por la gestión de proyectos con nuevos retos para lograr el frontend y el backend perfecto en base a las tecnologías más actuales. Siempre evolucionando!</p>
 				</div>
 				<div class="col-lg-4">
-					<p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
+					<p>Fullstack developer con más de 6 años de experiencia en una start up de éxito donde he podido crecer y desarrollarme profesionalmente.</p>
 				</div>
-				<div class="col-lg-8 col-lg-offset-2 text-center">
+				<!-- <div class="col-lg-8 col-lg-offset-2 text-center">
 					<a href="#" class="btn btn-lg btn-outline">
 						<i class="fa fa-download"></i> Download Theme
 					</a>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</section>
 
 	<!-- Contact Section -->
-	<section id="contact">
+	<!-- <section id="contact">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12 text-center">
@@ -52,9 +52,9 @@
 			</div>
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2">
-					<!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
+					 To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
 					<!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
-					<form name="sentMessage" id="contactForm" novalidate>
+					<!-- <form name="sentMessage" id="contactForm" novalidate>
 						<div class="row control-group">
 							<div class="form-group col-xs-12 floating-label-form-group controls">
 								<label>Name</label>
@@ -94,7 +94,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 	<!-- Footer -->
 	<footer class="text-center">

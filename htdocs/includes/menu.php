@@ -20,11 +20,11 @@
                     <a href="#portfolio">Portfolio</a>
                 </li>
                 <li class="page-scroll">
-                    <a href="#about">About</a>
+                    <a href="#about">Sobre mí</a>
                 </li>
-                <li class="page-scroll">
+                <!-- <li class="page-scroll">
                     <a href="#contact">Contact</a>
-                </li>
+                </li> -->
             </ul>
         </div>
         <!-- /.navbar-collapse -->
