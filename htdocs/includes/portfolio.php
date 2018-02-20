@@ -16,7 +16,7 @@
                             <i class="fa fa-search-plus fa-2x"></i><br>Diseño 100% mobile
                         </div>
                     </div>
-                    <img  src="<?php echo $path_raiz; ?>img/portfolio/reserva.png" class="img-responsive" alt="Diseño 100% mobile" title="Diseño 100% mobile">
+                    <img  src="<?php echo $path_raiz; ?>img/portfolio/reserva4.png" class="img-responsive" alt="Diseño 100% mobile" title="Diseño 100% mobile">
                 </a>
             </div>
             <div class="col-sm-4 portfolio-item">
