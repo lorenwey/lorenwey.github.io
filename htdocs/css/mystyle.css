@@ -1,0 +1,29 @@
+.carousel-indicators{
+    bottom: 0px!important;
+}
+.carousel-indicators li{
+    border: 1px solid #18BC9C!important;
+}
+.carousel-indicators .active{
+    background-color: #18BC9C!important;
+}
+.carousel-control{
+    width: 10%;
+}
+/*.carousel-control:focus, .carousel-control:hover{*/
+    /*color: #18BC9C;*/
+/*}*/
+.portfolio-modal .close-modal{
+    width: 55px;
+    height: 55px;
+}
+.portfolio-modal .close-modal .lr,
+.portfolio-modal .close-modal .lr .rl{
+    height: 55px;
+}
+.portfolio-modal .modal-content{
+    padding: 65px 0;
+}
+.portfolio-modal .modal-content h2{
+    font-size: 2em;
+}
