@@ -212,11 +212,17 @@
 									<ol class="carousel-indicators">
 										<li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
 										<li data-target="#myCarousel2" data-slide-to="1"></li>
+										<li data-target="#myCarousel2" data-slide-to="2"></li>
+										<li data-target="#myCarousel2" data-slide-to="3"></li>
+										<li data-target="#myCarousel2" data-slide-to="4"></li>
 									</ol>
 
 									<!-- Wrapper for slides -->
 									<div class="carousel-inner">
 										<div class="item active"><img src="img/portfolio/manual.png" alt="manual"/></div>
+										<div class="item"><img src="img/portfolio/extranet.png" alt="manual"/></div>
+										<div class="item"><img src="img/portfolio/extranet1.png" alt="manual"/></div>
+										<div class="item"><img src="img/portfolio/extranet2.png" alt="manual"/></div>
 										<div class="item"><img src="img/portfolio/unifomre.png" alt="manual2"/></div>
 									</div>
 

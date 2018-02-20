@@ -26,7 +26,7 @@
                             <i class="fa fa-search-plus fa-2x"></i><br>Extranet de propietarios
                         </div>
                     </div>
-                    <img  src="<?php echo $path_raiz; ?>img/portfolio/manual.png" class="img-responsive" alt="Extranet de propietarios" title="Extranet de propietarios">
+                    <img  src="<?php echo $path_raiz; ?>img/portfolio/unifomre.png" class="img-responsive" alt="Extranet de propietarios" title="Extranet de propietarios">
                 </a>
             </div>
             <div class="col-sm-4 portfolio-item">
@@ -46,7 +46,7 @@
                             <i class="fa fa-search-plus fa-2x"></i><br>Motor de reservas
                         </div>
                     </div>
-                    <img src="<?php echo $path_raiz; ?>img/portfolio/motor.png" class="img-responsive" alt="motor de reservas" title="Motor de reservas">
+                    <img src="<?php echo $path_raiz; ?>img/portfolio/motor2.png" class="img-responsive" alt="motor de reservas" title="Motor de reservas">
                 </a>
             </div>
             <div class="col-sm-4 portfolio-item">
