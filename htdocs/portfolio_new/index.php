@@ -166,7 +166,7 @@ $path_raiz = './';
         <div class="content no-bottom-padding colors-e">
             <div class="container-fluid">
                 <h2>Portfolio</h2>
-                <p class="lead">Estos son algunos de los proyectos que he realizado tanto en mi entonrno laboral como en mis ratos libres.</p>
+                <p class="lead">Estos son algunos de los proyectos que he realizado tanto en mi entorno laboral como en mis ratos libres.</p>
             </div>
             <div class="gallery background-e" data-default-group="all" data-overlay=".gallery-overlay">
                 <div class="container-fluid">
