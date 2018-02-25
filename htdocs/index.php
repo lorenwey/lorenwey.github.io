@@ -182,7 +182,7 @@
 							<div class="col-xs-12 clearfix">
 								<p><br>Motor de reservas personalizable, responsive, fácil de integrar. <br>Pasarela de pago incluida</p>
 								<ul class="list-inline item-details m-t-3">
-									<li><strong><a href="http://startbootstrap.com">Mayo 2016</a></strong></li>
+									<li><strong>Mayo 2016</strong></li>
 								</ul>
 								<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
 							</div>
@@ -241,7 +241,7 @@
 							<div class="col-xs-12 clearfix">
 								<p><br>Extranet completa de propietario a partir de la creación del manual de estilo para la uniformidad visual, de usabilidad y buenas prácticas en el código.</p>
 								<ul class="list-inline item-details m-t-3">
-									<li><strong><a href="http://startbootstrap.com">Octubre 2017</a></strong></li>
+									<li><strong>Octubre 2017</strong></li>
 								</ul>
 								<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
 							</div>
@@ -298,7 +298,7 @@
 							<div class="col-xs-12 clearfix">
 								<p><br>Optimizado para el momento exacto en que se usa. <br>Con plugins útiles como la firma digital o lector de QR para un checkin ágil</p>
 								<ul class="list-inline item-details m-t-3">
-									<li><strong><a href="http://startbootstrap.com">Enero 2018</a></strong></li>
+									<li><strong>Enero 2018</strong></li>
 								</ul>
 								<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
 							</div>
@@ -353,7 +353,7 @@
 							<div class="col-xs-12 clearfix">
 								<p><br>Integración completa del sistema mediante Soap y WebHooks.<br>Integración de reservas directas por REST.<br>Integraciones REST y Soap con pasarelas de pago y TPVs.</p>
 								<ul class="list-inline item-details m-t-3">
-									<li><strong><a href="http://startbootstrap.com">2015 - 2018</a></strong></li>
+									<li><strong>2015 - 2018</strong></li>
 								</ul>
 								<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
 							</div>
@@ -416,7 +416,7 @@
 							<div class="col-xs-12 clearfix">
 								<p><br>Proyecto realizado en mi tiempo libre, sistema de gestión integral para tiendas online.<br>Gestión de Stocks, clientes, pedidos, "carrito abandonado", estadísticas, pasarelas de pago incluidas y tienda personalizable.</p>
 								<ul class="list-inline item-details m-t-3">
-									<li><strong><a href="http://startbootstrap.com">2016 - 2017</a></strong></li>
+									<li><strong>2016 - 2017</strong></li>
 								</ul>
 								<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
 							</div>
@@ -477,7 +477,7 @@
 							<div class="col-xs-12 clearfix">
 								<p><br>Proyecto realizado en mi tiempo libre, tienda online personalizable en colores, filtros, menús...<br>Consulta de pedidos, lista de deseos, parasela de pago...</p>
 								<ul class="list-inline item-details m-t-3">
-									<li><strong><a href="http://startbootstrap.com">2016 - 2017</a></strong></li>
+									<li><strong>2016 - 2017</strong></li>
 								</ul>
 								<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
 							</div>
