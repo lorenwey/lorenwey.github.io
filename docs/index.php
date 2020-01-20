@@ -30,7 +30,7 @@
 					<p>Apasionada por la gestión de proyectos con nuevos retos para lograr el frontend y el backend perfecto en base a las tecnologías más actuales. Siempre evolucionando!</p>
 				</div>
 				<div class="col-lg-4">
-					<p>Fullstack developer con más de 6 años de experiencia en una start up de éxito donde he podido crecer y desarrollarme profesionalmente.</p>
+					<p>Fullstack developer con más de 7 años de experiencia en una start up de éxito donde he podido crecer y desarrollarme profesionalmente.</p>
 				</div>
 				<!-- <div class="col-lg-8 col-lg-offset-2 text-center">
 					<a href="#" class="btn btn-lg btn-outline">
@@ -120,7 +120,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
-						Copyright &copy; Lorena Muns 2018
+						Copyright &copy; Lorena Muns <?php echo date('Y'); ?>
 					</div>
 				</div>
 			</div>
